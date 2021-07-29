@@ -1,0 +1,33 @@
+body{
+margin-top: 0;
+}
+.Fetured-Bikes-2021-color{
+    filter: grayscale(100%);
+}
+
+.header-bg-color{
+    background-color: #264653;
+    
+}
+.purchase-button-color{
+    background-color: #E76F51;
+}
+.best-bike-collection-text-color{
+    color: #E76F51;
+}
+.read-more-color{
+    background-color: #E76F51;
+}
+.clients-says-color{
+    color: #E76F51;
+}
+.awesome-icon-color{
+    color: #E76F51;
+}
+.Regina-Miles-color{
+    color: #23A6F0;
+
+}
+.question-color{
+    color: #E76F51;
+}
